@@ -1,0 +1,39 @@
+Array
+(
+    [ORDER_REF] => 10841370
+    [RESPONSE_CODE] => 1
+    [RESPONSE_MSG] => OK
+    [IRN_DATE] => 2013-05-22 11:55:33
+    [ORDER_HASH] => f2489396008f591364d140de2cb1bcda
+    [__utma] => 111872281.618064099.1368775979.1368775979.1368775979.1
+    [__utmz] => 111872281.1368775979.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [optimizelySegments] => {\"171896627\":\"direct\",\"170951803\":\"none\",\"171896628\":\"ff\",\"172163877\":\"false\"}
+    [optimizelyEndUserId] => oeu1368775979739r0.7137872528702802
+    [optimizelyBuckets] => {}
+)
+Array
+(
+    [ORDER_REF] => 10841370
+    [RESPONSE_CODE] => 1
+    [RESPONSE_MSG] => OK
+    [IRN_DATE] => 2013-05-22 12:22:36
+    [ORDER_HASH] => ba4fe72212622b213a8100c835eaf13d
+    [__utma] => 111872281.618064099.1368775979.1368775979.1368775979.1
+    [__utmz] => 111872281.1368775979.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [optimizelySegments] => {\"171896627\":\"direct\",\"170951803\":\"none\",\"171896628\":\"ff\",\"172163877\":\"false\"}
+    [optimizelyEndUserId] => oeu1368775979739r0.7137872528702802
+    [optimizelyBuckets] => {}
+)
+Array
+(
+    [ORDER_REF] => 10841370
+    [RESPONSE_CODE] => 9
+    [RESPONSE_MSG] => Invalid ORDER_REF
+    [IRN_DATE] => 2013-05-30 14:10:51
+    [ORDER_HASH] => 5dfe189eade5fbd3b3abcbebb415cfa2
+    [__utma] => 111872281.618064099.1368775979.1368775979.1368775979.1
+    [__utmz] => 111872281.1368775979.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)
+    [optimizelySegments] => {\"171896627\":\"direct\",\"170951803\":\"none\",\"171896628\":\"ff\",\"172163877\":\"false\"}
+    [optimizelyEndUserId] => oeu1368775979739r0.7137872528702802
+    [optimizelyBuckets] => {}
+)
